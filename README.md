@@ -25,7 +25,7 @@ Before you begin, ensure you have the following installed on your system:
 1.  **Clone the repository:**
 
     ```bash
-    git clone <>
+    git clone <https://github.com/Rahulb1123/Mouse-Controller-using-hand-gesture.git>
     ```
 
 2.  **Install the required libraries:**
